@@ -14,6 +14,7 @@ leverage the full power of the BitShares Blockchain.
   <img src="bitshares-logo.png" width="120" title="BitShares">
 </p>
 
+
 ### Quick Start
 
 - [Create your BitShares UI wallet](/bbf/user_guide/create_account.md#create-an-account)

@@ -1,7 +1,7 @@
 
 ## BitShares Blockchain Documentation
 # Fresh docs
-[main page](http://docs.bitshares.org/)
+[The fresh documentation page](http://docs.bitshares.org/)
 
 Welcome to the documentation portal for the BitShares Blockchain. The
 content on this page is managed by the BitShares community and is
